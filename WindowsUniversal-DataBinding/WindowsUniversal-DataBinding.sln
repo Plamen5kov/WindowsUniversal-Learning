@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Slider-FontSize-Control", "01.Slider-FontSize-Control\01.Slider-FontSize-Control.csproj", "{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TextBlock-Bind", "02.TextBlock-Bind\02.TextBlock-Bind.csproj", "{60F9AB0A-7495-41E0-B1C3-C3009F41F827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|ARM.Build.0 = Debug|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x64.ActiveCfg = Debug|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x64.Build.0 = Debug|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x64.Deploy.0 = Debug|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x86.ActiveCfg = Debug|x86
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x86.Build.0 = Debug|x86
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Debug|x86.Deploy.0 = Debug|x86
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|ARM.ActiveCfg = Release|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|ARM.Build.0 = Release|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|ARM.Deploy.0 = Release|ARM
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x64.ActiveCfg = Release|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x64.Build.0 = Release|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x64.Deploy.0 = Release|x64
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x86.ActiveCfg = Release|x86
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x86.Build.0 = Release|x86
+		{FCF1FD77-37FE-4E25-AEF1-E0A5A488A604}.Release|x86.Deploy.0 = Release|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|ARM.ActiveCfg = Debug|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|ARM.Build.0 = Debug|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|ARM.Deploy.0 = Debug|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x64.ActiveCfg = Debug|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x64.Build.0 = Debug|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x64.Deploy.0 = Debug|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x86.ActiveCfg = Debug|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x86.Build.0 = Debug|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Debug|x86.Deploy.0 = Debug|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|ARM.ActiveCfg = Release|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|ARM.Build.0 = Release|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|ARM.Deploy.0 = Release|ARM
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x64.ActiveCfg = Release|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x64.Build.0 = Release|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x64.Deploy.0 = Release|x64
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x86.ActiveCfg = Release|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x86.Build.0 = Release|x86
+		{60F9AB0A-7495-41E0-B1C3-C3009F41F827}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="_04.TestingViewBox.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_04.TestingViewBox"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Margin="5" Orientation="Horizontal">
+            <Viewbox MaxWidth="100" MaxHeight="100" Name="vb1">
+                <Image Source="star.jpg"/>
+            </Viewbox>
+            <Viewbox MaxWidth="200" MaxHeight="200" Name="vb2">
+                <Image Source="star.jpg"/>
+            </Viewbox>
+            <Viewbox MaxWidth="100" MaxHeight="100">
+                <Rectangle Width="100" Height="100" Fill="Green"></Rectangle>
+            </Viewbox>
+            <Viewbox MaxWidth="200" MaxHeight="200">
+                <Rectangle Width="100" Height="100" Fill="Green"></Rectangle>
+            </Viewbox>
+        </StackPanel>
+    </Grid>
+</Page>
